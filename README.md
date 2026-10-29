@@ -39,7 +39,7 @@ An animated 3D map of every mapped river in Canada on every day of 2025. Each ri
 ![Discharge to the sea 2025](images/discharge-to-sea-2025.png)
 
 - Discharge to the sea stays near its minimum through late winter, rises with spring melt from April, and peaks in late June. The 2025 mean is about **91,500 m³/s**.
-- **Limitations:** water temperature is estimated from air temperature. Most rivers borrow a sampled river's daily pattern. Totals are tied to long-term means, so they show the seasonal rhythm but not whether 2025 was a wet or dry year. GloFAS is a model, not gauge data.
+- **Notes:** water temperature is estimated from air temperature, and most rivers follow the daily pattern of a sampled river. Totals are tied to long-term means, so they show the seasonal rhythm of 2025. Discharge comes from the GloFAS hydrological model.
 
 ## Code
 
